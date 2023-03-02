@@ -15,6 +15,6 @@ Code is designed for windows because dataset is distributed into multiples files
 you will need Python 3.8 and Pandas for reading the file
 Matplotlib for creating Knowledge graph its a playaround file, use any columns as per your choice to build the graph.
 
-If you do not skip the reading and eda part just download the combined zip file.
+If you want to skip the reading and eda part just download the combined zip file.
 
 Label prediction will be uploaded here soon.
