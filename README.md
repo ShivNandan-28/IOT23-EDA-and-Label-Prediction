@@ -13,7 +13,7 @@ Either download the small file(i have worked on small file) and exract it to put
 Code is designed for windows because dataset is distributed into multiples files and folders so change the directories accordingly.
 
 you will need Python 3.8 and Pandas for reading the file
-Matplotlib for creating Knowlwdge graph its a playaround file, use any columns as per your choice to build the graph.
+Matplotlib for creating Knowledge graph its a playaround file, use any columns as per your choice to build the graph.
 
 If you do not skip the reading and eda part just download the combined zip file.
 
